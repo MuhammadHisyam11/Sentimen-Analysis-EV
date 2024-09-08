@@ -1,12 +1,9 @@
 Hello this is my Thesis
 
 if you want my ipynb files
-notebook
-|_skripsi
+notebook -> skripsi
 
 if you want a data
-notebook
-|_data
-  |_Mobil Listrik
+notebook -> data -> Mobil Listrik
 
 ❗for educational only❗
