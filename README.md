@@ -1,6 +1,6 @@
 👋 Hi There 👋
 
-Description:
+>Description:
 ❗This is my thesis for educational only❗
 i want to predict Analysis Sentimen for electric car vehicle in Indonesia.
 i use dataset from twitter by scraping it on google colabs.
